@@ -4,3 +4,8 @@
 *.zarr
 *.txt
 *.npy
+*.arr
+*.gifcask
+*.png
+*.html
+/exclude/*
