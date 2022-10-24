@@ -6,4 +6,4 @@ I used the scripts in this repository to create the following blog posts about t
 * [Using Zarr for image files – The OME-ZARR standard](https://www.fabriziomusacchio.com/blog/2022-10-24-Zarr_and_images)
 
 
-![](https://www.fabriziomusacchio.com/assets/images/posts/Zarr/Napari_remote_load.gif "Example of a remotely stored OME-ZARR file, opened in Napari.")
+![](Napari_remote_load.gif "Example of a remotely stored OME-ZARR file, opened in Napari.")
